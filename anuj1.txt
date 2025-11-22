@@ -3,3 +3,4 @@ Editing the file in the repo
 second edit
 Pushing from loca to Remote
 Pushing from remote to local
+Fetch test from Remote to Local
